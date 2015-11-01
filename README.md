@@ -1,0 +1,1 @@
+This is a repository of mini projects i'm working on to pass time and practice Java
